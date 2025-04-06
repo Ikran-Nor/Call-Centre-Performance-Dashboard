@@ -37,13 +37,13 @@ By leveraging Power BI's data modeling and DAX capabilities, the dashboard uncov
 
 
 ## 🧠 Recommendations:   
-**Optimize Staffing**: Align staffing schedules with peak periods (e.g., 13:00–14:00 on Mondays) to reduce call wait times and abandonment.
+✔ **Optimize Staffing**: Align staffing schedules with peak periods (e.g., 13:00–14:00 on Mondays) to reduce call wait times and abandonment.
 
-**Performance Coaching**: Use agent performance data to offer tailored feedback and coaching, especially for those with high talk times or low resolution rates.
+✔ **Performance Coaching**: Use agent performance data to offer tailored feedback and coaching, especially for those with high talk times or low resolution rates.
 
-**Enhance Resolution Processes**: While the resolution rate is high, aiming for >90% can further boost satisfaction. 
+✔ **Enhance Resolution Processes**: While the resolution rate is high, aiming for >90% can further boost satisfaction. 
 
-**Monitor Underutilized Periods**: Shift some operations or outbound activities to quieter hours (e.g., 6 PM).
+✔ **Monitor Underutilized Periods**: Shift some operations or outbound activities to quieter hours (e.g., 6 PM).
 
 
 ## 🧾 Summary & Conclusion
